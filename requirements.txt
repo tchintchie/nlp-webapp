@@ -1,0 +1,5 @@
+streamlit==0.88.0
+pandas-datareader==0.10.0
+pandas-profiling==2.3.0
+joblib==1.0.1
+altair==4.1.0
